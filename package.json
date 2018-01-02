@@ -1,6 +1,6 @@
 {
   "name": "mmod-linux",
-  "version": "1.0.4",
+  "version": "2.1.1",
   "main": "index.js",
   "repository": "git@github.com:mmpublic/mmod-darwin.git",
   "author": "zhufeng <zhfjyq@163.com>",
